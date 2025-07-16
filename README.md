@@ -33,9 +33,9 @@ When I’m not coding, you’ll probably find me playing mobile games or watchin
 
 <div align="center">
 🗣️ Programming Languages<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,csharp,python,java" style="margin: 10px;" /> <br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c#,python,java" style="margin: 10px;" /> <br/>
 🎨 Frontend Frameworks & Libraries<br/>
-<img src="https://skillicons.dev/icons?i=react,angular,ionic,vue" style="margin: 10px;" /><br/>
+<img src="https://skillicons.dev/icons?i=react,angular,ionic,vue.js" style="margin: 10px;" /><br/>
 ⚙️ Backend & Database<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" style="margin: 10px;" /><br/>
 🛠️ Tools, Platforms & Design<br/>
