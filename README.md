@@ -35,12 +35,11 @@ When I’m not coding, you’ll probably find me playing mobile games or watchin
 
 🗣️ Programming Languages  
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,csharp,python,java" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java" /><br/>
 
 🎨 Frontend Frameworks & Libraries  
 <br/>
-<img src="https://skillicons.dev/icons?i=react,angular,vue" />
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /><br/>
+<img src="https://skillicons.dev/icons?i=react,angular,vue,tailwindcss" />
 
 ⚙️ Backend & Database  
 <br/>
@@ -49,8 +48,6 @@ When I’m not coding, you’ll probably find me playing mobile games or watchin
 🛠️ Tools, Platforms & Design  
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,figma" />
-<img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 </div>
 
