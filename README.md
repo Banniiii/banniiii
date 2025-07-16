@@ -32,19 +32,14 @@ When I’m not coding, you’ll probably find me playing mobile games or watchin
 ### 🧰 Tech Stack
 
 <div align="center">
-
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,c#,python,java" />
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,angular,ionic,vue" />
-
-<!-- Backend & DB -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
-
-<!-- Tools & Design -->
-<img src="https://skillicons.dev/icons?i=git,github,figma,adobexd,canva" />
-
+🗣️ Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,csharp,python,java" style="margin: 10px;" />
+🎨 Frontend Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,angular,ionic,vue" style="margin: 10px;" />
+⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" style="margin: 10px;" />
+🛠️ Tools, Platforms & Design
+<img src="https://skillicons.dev/icons?i=git,github,figma,adobexd,canva" style="margin: 10px;" /> 
 </div>
 
 ---
