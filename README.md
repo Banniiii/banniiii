@@ -21,11 +21,11 @@
 
 ### 💡 About Me
 
-I'm a **self-taught, design-driven developer** with a love for turning abstract ideas into real-world applications. My journey began with an old Lenovo laptop and a ton of curiosity, which sparked a deep interest in how things work behind the screen. That spark led me to pursue a **degree in Computer Science**, where I blended my creativity and logic into full-stack development.
+Ever since I was a kid, I’ve been naturally curious about technology. It all started with an old Lenovo laptop, Notepad, and Google Chrome. From there, I began teaching myself how to build simple projects by following tutorials and diving into documentation. That curiosity eventually led me to pursue a degree in Computer Science, turning a childhood interest into a lifelong passion.
 
-> Whether it's crafting elegant interfaces or designing robust backends, I thrive in bridging functionality with form.
+>Over time, I discovered a love for graphics and design, which pushed me to explore full-stack development. I enjoy combining the logic of programming with the creativity of design, allowing me to build user-friendly and visually engaging applications.
 
-When I’m not coding, I recharge by watching anime 🎌 or playing mobile games 🎮—my way of staying balanced while doing what I love.
+When I’m not coding, you’ll probably find me playing mobile games or watching anime, just my way of keeping life balanced while doing what I love.
 
 ---
 
@@ -34,16 +34,16 @@ When I’m not coding, I recharge by watching anime 🎌 or playing mobile games
 <div align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c#,python,java" />
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,angular,ionic" />
+<img src="https://skillicons.dev/icons?i=react,angular,ionic,vue" />
 
 <!-- Backend & DB -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase" />
 
 <!-- Tools & Design -->
-<img src="https://skillicons.dev/icons?i=git,github,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,adobexd,canva" />
 
 </div>
 
@@ -61,14 +61,6 @@ When I’m not coding, I recharge by watching anime 🎌 or playing mobile games
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yvanmaribbay&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yvanmaribbay&theme=tokyonight" />
-</div>
-
----
 
 ### 📨 Let's Connect
 
