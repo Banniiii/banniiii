@@ -35,7 +35,7 @@ When I’m not coding, you’ll probably find me playing mobile games or watchin
 
 🗣️ Programming Languages  
 <br/>
-<img src="https://skillicons.dev/icons?i=html,python,java" /><br/>
+<img src="https://skillicons.dev/icons?i=python,java" /><br/>
 
 🎨 Frontend Frameworks & Libraries  
 <br/>
